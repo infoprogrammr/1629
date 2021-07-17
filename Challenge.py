@@ -5,8 +5,10 @@ num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
 
 sum=0 
-# Uncomment the following code
-#sum = float(num1) + float(num2)
+dmfs dogsgdsgo msddfdsmgmsd sodngsdogn
+pfksdpf 
+fom j
+
  
 # Display the sum
 print(sum)
